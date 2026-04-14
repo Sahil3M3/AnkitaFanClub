@@ -28,7 +28,7 @@
           <div class="lock-card__meme-strip">
             <span>CEO of Nagpur 👑</span>
             <span>•</span>
-            <span>Ek Number Ladki ✨</span>
+            <span>Dil ki bht hi saaf Ladki ✨</span>
             <span>•</span>
             <span>Sab se Bhari 🔥</span>
           </div>
